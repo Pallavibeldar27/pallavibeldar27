@@ -97,7 +97,16 @@
 
 # 📂 Featured Projects
 
-### 📈 Amazon Sales Dashboard
+### 📊 Trading Strategy Performance Dashboard
+- Power BI
+- DAX
+- Financial Analysis
+- Trend Visualization
+- Microsoft Excel
+
+---
+
+### 📈 Amazon Sales Analysis Dashboard
 - Power BI Dashboard
 - KPI Cards
 - Sales Analysis
@@ -106,27 +115,28 @@
 
 ---
 
-### 📊 Stock Market Dashboard
-- Power BI
-- DAX
-- Financial Analysis
-- Trend Visualization
-
----
-
-### 👨‍💼 HR Automation System
-- HTML
-- CSS
-- JavaScript
-- Data Management
-
----
-
-### 📉 Job Market Dashboard
+### 👨‍💼 Weather Dataset Analysis
 - Python
-- SQL
+- EDA(Exploratory Data Analysis)
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+---
+
+### 📉 Job Market Analysis Dashboard
 - Power BI
-- Excel
+- python
+- DAX (Data Analysis Expressions)
+- Microsoft Excel
+
+---
+
+### 📉 HR Analytics Dashboard
+- Microsoft Excel
+- Pivot Charts
+- Pivot Table
 
 ---
 
@@ -154,17 +164,19 @@
 
 ✔ Data Analysis
 
+✔ EDA
+
 ---
 
 # 🌐 Connect with Me
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/pallavi-beldar-27bi/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:pallavibeldar6@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
 </a>
 
@@ -178,8 +190,7 @@
 
 # 💡 Quote
 
-> *"Without data, you're just another person with an opinion."*  
-> — W. Edwards Deming
+> *"Never Give up great things Take time"* 
 
 ---
 
